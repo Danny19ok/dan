@@ -1,66 +1,79 @@
-<h1 align="center">Hi there, I'm [ DANIEL DARSHAN G ] 👋</h1>
+<h1 align="center">Hi, I'm Daniel Darshan 👋</h1>
 
 <p align="center">
-  🚀 Data Analyst | 📊 Data Visualization Enthusiast | 🧮 Python & SQL Explorer
+  <em>Data Analyst | Business Intelligence Enthusiast | Data-Driven Problem Solver</em><br>
+  <strong>SQL • Python • Power BI • Excel • Pandas • NumPy • Matplotlib</strong>
 </p>
 
 ---
 
-### 🔍 About Me
+### 📌 About Me
 
-- 🧠 Passionate about turning raw data into actionable insights
-- 💻 Skilled in SQL, Python, Pandas, NumPy, Matplotlib
-- 📊 Proficient in Power BI & Excel for dashboard creation and reporting
-- 🎯 Currently exploring advanced analytics and machine learning basics
-- 🌱 Always eager to learn something new in the data world
+I'm a passionate **Data Analyst** skilled in deriving insights from data and transforming them into meaningful business strategies. I enjoy solving real-world problems using **SQL**, **Python**, **Excel**, and **Power BI**, and I focus on clear storytelling through visualizations and reports.
 
----
+🔍 Areas of expertise:
+- Advanced data cleaning and preparation
+- Automated reporting using Python & Excel
+- Interactive dashboards with Power BI
+- Query optimization in SQL databases
 
-### 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🎯 Currently learning:
+- Time-series forecasting techniques
+- Machine learning fundamentals
+- Advanced Power BI DAX expressions
 
 ---
 
-### 📈 Featured Projects
+### 🛠️ Technical Skills
 
-#### 📊 Power BI Dashboard - [Sales Insights](https://github.com/yourusername/powerbi-sales-dashboard)
-- Visualized key metrics like revenue, profit, and customer segments.
-- Interactive dashboards with slicers, drill-downs, and KPIs.
+**Languages & Tools**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (Joins, Subqueries, CTEs, Aggregations)  
+- Excel (PivotTables, Power Query, VLOOKUP, Dashboards)  
+- Power BI (DAX, KPIs, Data Modeling)  
+- Git, Jupyter Notebook, VS Code  
 
-#### 📁 Python Analysis - [Netflix Dataset Exploration](https://github.com/yourusername/netflix-data-analysis)
-- Cleaned, processed, and visualized Netflix data using Pandas and Matplotlib.
-- Derived insights on content trends, release years, and genres.
+---
 
-#### 📉 SQL Project - [Customer Segmentation](https://github.com/yourusername/sql-customer-segmentation)
-- Wrote complex queries for cohort analysis, retention, and segmentation.
-- Optimized queries using indexing and joins.
+### 🚀 Projects
+
+#### 📊 [Retail Sales Dashboard – Power BI](https://github.com/danieldarshan/retail-sales-dashboard)
+> Built an interactive dashboard showing revenue, profit, and product/category trends. Included filters and drilldowns for actionable insights.
+
+#### 🧮 [Customer Churn Analysis – Python](https://github.com/danieldarshan/customer-churn-analysis)
+> Cleaned and analyzed customer data using Pandas. Visualized churn patterns and trends using Seaborn and Matplotlib.
+
+#### 🧾 [Marketing Campaign Analysis – SQL & Excel](https://github.com/danieldarshan/sql-marketing-analysis)
+> Wrote advanced SQL queries to assess campaign ROI and visualized results using dynamic Excel dashboards.
+
+---
+
+### 📜 Certifications
+
+📘 **Python for Data Science**  
+🧠 **Artificial Intelligence Fundamentals**  
+📊 **Data Fundamentals**  
+📈 **Data Analysis with Python**
+
+> *(You can link to certificate URLs if available)*
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: [danny19ok@gmail.com](mailto:danny19ok@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/daniel-darshan-208994224](https://www.linkedin.com/in/daniel-darshan-208994224)  
+- 🌐 GitHub: [github.com/danieldarshan](https://github.com/danieldarshan)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danieldarshan&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldarshan&layout=compact&theme=default" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
----
-
-> “In God we trust. All others must bring data.” – W. Edwards Deming
-
+> *“Without data, you're just another person with an opinion.”* — W. Edwards Deming
