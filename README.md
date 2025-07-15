@@ -66,14 +66,3 @@ I'm a passionate **Data Analyst** skilled in deriving insights from data and tra
 - 🌐 GitHub: [github.com/danieldarshan](https://github.com/danieldarshan)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danieldarshan&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldarshan&layout=compact&theme=default" width="48%" />
-</p>
-
----
-
-> *“Without data, you're just another person with an opinion.”* — W. Edwards Deming
