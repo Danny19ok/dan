@@ -11,7 +11,7 @@
 
 I'm a passionate **Data Analyst** skilled in deriving insights from data and transforming them into meaningful business strategies. I enjoy solving real-world problems using **SQL**, **Python**, **Excel**, and **Power BI**, and I focus on clear storytelling through visualizations and reports.
 
- Areas of expertise:
+ ### Areas of expertise:
 - Advanced data cleaning and preparation
 - Automated reporting using Python & Excel
 - Interactive dashboards with Power BI
@@ -37,14 +37,14 @@ I'm a passionate **Data Analyst** skilled in deriving insights from data and tra
 
 ###  Certifications
 
- **Python for Data Science**  
- **Artificial Intelligence Fundamentals**  
- **Data Fundamentals**  
- **Data Analysis with Python**
+ *Python for Data Science
+ *Artificial Intelligence Fundamentals
+ *Data Fundamentals
+ *Data Analysis with Python
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 -  Email: [danny19ok@gmail.com](mailto:danny19ok@gmail.com)  
 -  LinkedIn: [linkedin.com/in/daniel-darshan-208994224](https://www.linkedin.com/in/daniel-darshan-208994224)  
