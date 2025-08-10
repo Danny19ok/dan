@@ -9,7 +9,7 @@
 
 ###  About Me
 
-I'm a passionate **Data Analyst** skilled in deriving insights from data and transforming them into meaningful business strategies. I enjoy solving real-world problems using **SQL**, **Python**, **Excel**, and **Power BI**, and I focus on clear storytelling through visualizations and reports.
+I'm a passionate **Data Science** and **Data Analyst** skilled in deriving insights from data and transforming them into meaningful business strategies. I enjoy solving real-world problems using **SQL**, **Python**, **Excel**, and **Power BI**, and I focus on clear storytelling through visualizations and reports.
 
  ### Areas of expertise:
 - Advanced data cleaning and preparation
@@ -37,10 +37,10 @@ I'm a passionate **Data Analyst** skilled in deriving insights from data and tra
 
 ###  Certifications
 
- *Python for Data Science
- *Artificial Intelligence Fundamentals
- *Data Fundamentals
- *Data Analysis with Python
+ - Python for Data Science
+ - Artificial Intelligence Fundamentals
+ - Data Fundamentals
+ - Data Analysis with Python
 
 ---
 
